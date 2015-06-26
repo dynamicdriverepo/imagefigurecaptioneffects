@@ -1,0 +1,25 @@
+{
+  "name": "imagefigurecaptioneffects",
+  "title": "Image Figure Caption effects",
+  "description": "Images may tell a thousand words, but with a nice caption it can tell a few more. This script transforms any image into a HTML5 compliant figure element with a nice caption. It also works on existing figure elements. Choose from 7 different effects to unveil the caption in style. Captions can be dynamically defined or literally inside the figure element. For captions that exceed the height of the image, scrollbars are added to make the hidden portion accessible.",
+  "keywords": ["caption", "image"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex15/imagefigurecaption.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex15/imagefigurecaption.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex15/imagefigurecaption.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex15/imagefigurecaption.htm"
+}
